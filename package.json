@@ -1,0 +1,22 @@
+{
+  "name": "pub_package_test",
+  "version": "1.0.0",
+  "description": "just for testing",
+  "main": "publish_npm_test.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Candieslove/taste.git"
+  },
+  "keywords": [
+    "pub"
+  ],
+  "author": "test",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Candieslove/test/issues"
+  },
+  "homepage": "https://github.com/Candieslove/test#readme"
+}
